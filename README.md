@@ -1,4 +1,4 @@
-# DPM CRM Project
+# Global HRM Project
 
 This is the global hrm project. Follow the steps below to set it up locally or on your server.
 
